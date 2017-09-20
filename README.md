@@ -12,7 +12,7 @@
 * How to Train Your Models in the Cloud : https://www.youtube.com/watch?v=Bgwujw-yom8
 
 
-## 1-Entraîner le modèle sur FloydHub : 
+## 1-Entraîner un réseau de neurone sur FloydHub : 
 > Pré-requis important : placer le fichier NeuralNet dans \Desktop\floyd
 > Les instructions suivantes sont à saisir dans la console 
 ```
