@@ -1,6 +1,6 @@
 # A voir et à savoir : 
 
-#### Les solutions de Cloud pour le Deep Learning sont Amazon AWS, Google Cloud,FloydHub. 
+#### Les solutions de Cloud pour le Deep Learning sont Amazon AWS, Google Cloud et FloydHub. 
 * Amazon AWS : offre le plus d'options (https://aws.amazon.com/fr/)
 * Google Cloud : plus facile à utiliser que AWS, moins chère (https://cloud.google.com/?hl=fr
 * FloydHub: simple, pas chère, solution idéale pour les débutants (https://www.floydhub.com)
