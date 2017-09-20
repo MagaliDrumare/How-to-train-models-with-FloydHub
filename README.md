@@ -13,6 +13,8 @@
 
 
 ## 1-Entraîner le modèle sur FloydHub : 
+> Pré-requis important : placer le fichier NeuralNet dans \Desktop\floyd
+> Les instructions suivantes sont à saisir dans la console 
 ```
 Last login: Wed Sep 20 11:00:02 on ttys001
 MacBook-Pro-de-DRUMARE:~ magalidrumare$ cd Desktop
@@ -24,4 +26,17 @@ This is an invisible field. Paste token and press ENTER:
 Login Successful
 MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --gpu "python NeuralNet.py"
 ```
+> Vous devez voir apparaître dans la console 
+```
+Creating project run. Total upload size: 15.3KiB
+Syncing code ...
+```
+> Pour voir les logs de l'opération vous devez saisir dans la console 
+```
+To view logs enter:
+   floyd logs magalidrumare/projects/my-first-project/3
+   ```
+   
+
+
 
