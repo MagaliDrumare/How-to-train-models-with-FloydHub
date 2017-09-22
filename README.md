@@ -1,4 +1,4 @@
-![alt tag](https://www.google.fr/imgres?imgurl=https%3A%2F%2Fimg.betapage.co%2Fimages%2F68693321-68693375.png&imgrefurl=https%3A%2F%2Fbetapage.co%2Fstartup%2Ffloydhub&docid=vtUs2rUdeRpfCM&tbnid=YM90ezX9utSanM%3A&vet=10ahUKEwiOgfvw4LnWAhXInRoKHedXBCMQMwgmKAEwAQ..i&w=2862&h=1522&client=safari&bih=765&biw=1440&q=FLOYDHUB&ved=0ahUKEwiOgfvw4LnWAhXInRoKHedXBCMQMwgmKAEwAQ&iact=mrc&uact=8)
+![alt tag](https://img.betapage.co/images/68693321-68693375.png)
 
 # A voir et à savoir : 
 
