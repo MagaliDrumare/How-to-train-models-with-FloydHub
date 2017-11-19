@@ -26,7 +26,9 @@ Authentication token page will now open in your browser. Continue? [Y/n]: Y
 Please copy and paste the authentication token.
 This is an invisible field. Paste token and press ENTER: 
 Login Successful
-MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --gpu "python NeuralNet.py"
+MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd init name of the project created in FloydHub
+MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --gpu "python NeuralNet.py" (GPU)
+MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --cpu "python NeuralNet.py" (CPU) 
 ```
 > Vous devez voir apparaître dans la console 
 ```
