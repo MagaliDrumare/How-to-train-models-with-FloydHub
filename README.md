@@ -10,7 +10,7 @@
 
 
 #### Utiliser FloydHub : 
-* Installing Floydhub and running it with TFlearn, Jupyter Notebook, and Tensorboard :https://www.youtube.com/watch?v=byLQ9kgjTdQ
+* Installing Floydhub and running it with TFlearn, Jupyter , and Tensorboard :https://www.youtube.com/watch?v=byLQ9kgjTdQ
 * How to Train Your Models in the Cloud : https://www.youtube.com/watch?v=Bgwujw-yom8
 
 
@@ -22,11 +22,11 @@ Last login: Wed Sep 20 11:00:02 on ttys001
 MacBook-Pro-de-DRUMARE:~ magalidrumare$ cd Desktop
 MacBook-Pro-de-DRUMARE:Desktop magalidrumare$ cd floyd
 MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd login
-Authentication token page will now open in your browser. Continue? [Y/n]: Y
+Authentication token page will now open in your browser. Continue? [Y/Notebookn]: Y
 Please copy and paste the authentication token.
 This is an invisible field. Paste token and press ENTER: 
 Login Successful
-MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd init name of the project created in FloydHub
+MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd init name of the project created in FloydHub(my-first-project/3)
 MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --gpu "python NeuralNet.py" (GPU)
 MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env tensorflow --cpu "python NeuralNet.py" (CPU) 
 ```
@@ -40,7 +40,7 @@ Syncing code ...
 To view logs enter:
    floyd logs magalidrumare/projects/my-first-project/3
    ```
-   
+> Autre instruction dans la console pour models Keras : MacBook-Pro-de-DRUMARE:floyd magalidrumare$ floyd run --env keras --cpu "python test.py" 
 
 
 
